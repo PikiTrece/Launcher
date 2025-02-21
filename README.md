@@ -33,9 +33,10 @@ Utiliza un Json como bbdd para mostrar en cada uno imágenes y descripciones.
 
 ## 📦 Instalación
 
-### ✅ **Requisitos**
-- **Java (JDK 8 o superior)**
-- **NetBeans IDE** (o cualquier otro compatible con Java Swing)
+### ✅ **Requisitos y herramientas**
+- **Java 8**
+- **JDK 21**
+- **NetBeans IDE23** (o cualquier otro compatible con Java Swing)
 
 ### 📚 **Dependencias**
 Este proyecto requiere las siguientes librerías externas:
