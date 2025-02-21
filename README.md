@@ -1,7 +1,8 @@
 # Launcher
 # 🚀 Lanzacohetes - Aplicación de Juegos en Java Swing
 
-Lanzacohetes es una aplicación de escritorio desarrollada en **Java con Swing** que ofrece una interfaz visual atractiva para explorar una amplia colección de juegos. La aplicación cuenta con 14 categorías, cada una representada por 6 imágenes, y dentro de cada imagen se encuentran 5 juegos distintos.
+Lanzacohetes es una aplicación de escritorio desarrollada en **Java con Swing** que ofrece una interfaz visual atractiva para explorar una amplia colección de juegos. La aplicación cuenta con 14 categorías, cada una con 6 juegos distintos. 
+Utiliza un Json como bbdd para mostrar en cada uno imágenes y descripciones.
 
 ---
 
