@@ -1,8 +1,8 @@
 # Launcher
-# 🚀 Lanzacohetes - Aplicación de Juegos en Java Swing
+# 🚀 Launcher - Aplicación de Juegos en Java Swing
 
 Lanzacohetes es una aplicación de escritorio desarrollada en **Java con Swing** que ofrece una interfaz visual atractiva para explorar una amplia colección de juegos. La aplicación cuenta con 14 categorías, cada una con 6 juegos distintos. 
-Utiliza un Json como bbdd para mostrar en cada uno imágenes y descripciones.
+Utiliza un **Json** como bbdd para mostrar en cada uno imágenes y descripciones.
 
 ---
 
@@ -18,7 +18,7 @@ Utiliza un Json como bbdd para mostrar en cada uno imágenes y descripciones.
 ## 📂 Estructura del Proyecto
 
 ```
-📁 Lanzacohetes
+📁 Launcher
 │── 📁 src/
 │   │── 📁 juego/       # Clases relacionadas con los juegos
 │   │── 📁 bbdd/        # Módulo de gestión de base de datos
@@ -64,7 +64,7 @@ Este proyecto requiere las siguientes librerías externas:
 - Se recomienda utilizar **NetBeans** para facilitar la configuración y ejecución.
 - Para futuras mejoras, se podría agregar una conexión a una base de datos para la gestión de juegos.
 
-¡Disfruta explorando los juegos con **Lanzacohetes**! 🚀🎮
+¡Disfruta explorando los juegos con **Launcher**! 🚀🎮
 
 
 
