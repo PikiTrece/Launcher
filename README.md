@@ -9,9 +9,9 @@ Utiliza un Json como bbdd para mostrar en cada uno imágenes y descripciones.
 ## 🎮 Características
 - ✅ **Interfaz gráfica amigable** con componentes Swing.
 - 🏆 **14 categorías** de juegos con navegación intuitiva.
-- 🎮 **Cada categoría contiene 6 imágenes**, representando colecciones de juegos.
-- 🕹️ **Cada imagen muestra 5 juegos distintos** para explorar.
-- ⚡ **Rendimiento óptimo**, diseñado para una experiencia fluida.
+- 🎮 **Cada categoría contiene 6 juegos**.
+- 🕹️ **Cada juego cuenta con una galería de imágenes interactiva.**
+- ⚡ **Rendimiento óptimo**, diseñado para una experiencia de usuario fluida.
 
 ---
 
